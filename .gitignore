@@ -178,6 +178,9 @@ pyrightconfig.json
 # Soluciones de los ejercicios prácticos
 solution.py
 
+# Archivos de metadatos de macOS
+.DS_Store
+
 # Unidades desde 06_arrays en adelante
 /06_arrays/
 /07_more_control_structures/
